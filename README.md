@@ -19,3 +19,8 @@ gradlew bootRum
 ```sh
 https://${host}/swagger-ui/index.html
 ```
+- go to [Riot Developer] and get **Riot Api_Key**
+- on **Swagger-Ui** click Authorize and put **Riot Api_Key** on Value
+- enjoy
+
+[Riot Developer]: <https://developer.riotgames.com>
