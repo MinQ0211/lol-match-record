@@ -6,7 +6,7 @@ League Of Legend Match Record
 ## prerequisites
 
 - Docker
-- OPenJDK 17+
+- OpenJDK 17+
 
 ## HowTo-Run
 
