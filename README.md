@@ -1,5 +1,5 @@
 # lol-match-record
-# League Of Legend Match Record
+League Of Legend Match Record
 
 ## overview
 
