@@ -1,0 +1,19 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: lol-match-record
+  data:
+    redis:
+      host: localhost
+      port: ${REDIS_PORT}
+      password: null
+springdoc:
+  show-actuator: true
+  swagger-ui:
+    displayOperationId: true
+    enabled: true
+    path: /swagger-ui.html
+  version: v0.1
+  title: LOL Match Record
+  description: api info
